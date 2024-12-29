@@ -1,5 +1,5 @@
 {
-  "name": "DENUWAN-MD",
+  "name": "DENUWAN-MD-BOT",
   "description": "Javascript WhatsApp bot made by DENUWAN",
   "logo": "https://i.ibb.co/k1RH9bH/1086.jpg",
   "keywords": ["bot"],
@@ -9,7 +9,17 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    }  
+    },  
+
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true
+    }   
 },
 
      "buildpacks": [
