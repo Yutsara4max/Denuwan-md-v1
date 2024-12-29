@@ -80,4 +80,3 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ETypingxtraBold&color=F01&lines=BOT+ගෙ+අවුලක්+ඇතිනම්+OWNER+සම්බන්ධ+කරගන්න❤️)](https://git.io/typing-svg)
