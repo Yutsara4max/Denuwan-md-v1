@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DENUWAN+MD+WHATSAPP+BOT+DEPLOY+කරලා+බලන්න+ආස+හිතෙයි😘🇱🇰)](https://git.io/typing-svg)
+[! SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ETypingxtraBold&color=F01&lines=DENUWAN+MD+WHATSAPP+BOT+DEPLOY+කරලා+බලන්න+ආස+හිතෙයි😘🇱🇰)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -79,3 +79,5 @@
 <a href="https://whatsapp.com/channel/0029Vb29qulFnSzB58Rjac00"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
 
 <hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ETypingxtraBold&color=F01&lines=BOT+ගෙ+අවුලක්+ඇතිනම්+OWNER+සම්බන්ධ+කරගන්න❤️)](https://git.io/typing-svg)
