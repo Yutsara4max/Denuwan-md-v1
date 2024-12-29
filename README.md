@@ -68,3 +68,10 @@
 </br>
 </br>
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+<br>
+<hr>
+<b>CONTACT OWNER</b>
+
+[![DENUWAN](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94704463479)
+<hr>
