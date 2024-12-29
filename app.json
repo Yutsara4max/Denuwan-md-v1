@@ -14,7 +14,7 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/Denuwan-md/Denuwan-md-v1/tree/main?tab=readme-ov-file"
+            "url": "https://github.com/Denuwan-md/Denuwan-md-v1"
         }
      ],
   "stack": "heroku-24"
