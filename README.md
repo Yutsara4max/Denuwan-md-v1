@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DENUWAN+MD+WHATSAPP+BOT)](https://git.io/typing-svg)
+
+
 <p align="center">
 <a href="https://github.com/Denuwan-md/Denuwan-md">
     <img src=https://i.ibb.co/k1RH9bH/1086.jpg"  width="700px                     
