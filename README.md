@@ -34,6 +34,10 @@
 
 
 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
