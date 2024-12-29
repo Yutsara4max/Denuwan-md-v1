@@ -13,6 +13,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *`hi deploy new denuwan md whatsapp bot (bot owner is a Denuwan`*
 
 
