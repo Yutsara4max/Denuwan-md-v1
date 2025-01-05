@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ETypingxtraBold&color=F01&lines=DENUWAN+MD+WHATSAPP+BOT+DEPLOY+කරලා+බලන්න+ආස+හිතෙයි😘🇱🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ETypingxtraBold&color=F01&lines=DENUWAN+MD+WHATSAPP+BOT+DEPLOY+NEW🤖⚠️)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://github.com/Denuwan-md/Denuwan-md">
