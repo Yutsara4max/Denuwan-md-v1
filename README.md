@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Denuwan-md/Denuwan-md">
-    <img src=https://i.ibb.co/k1RH9bH/1086.jpg"  width="700px                     
+    <img src=https://i.ibb.co/rfyrgDL/9030.jpg"  width="700px                     
 
 
 
